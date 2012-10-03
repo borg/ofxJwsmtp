@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="release" />
+	<File name="src\jwsmtp\compat.cpp" open="1" top="0" tabpos="10">
+		<Cursor position="625" topLine="0" />
+	</File>
+	<File name="src\jwsmtp\mailer.cpp" open="1" top="0" tabpos="9">
+		<Cursor position="342" topLine="60" />
+	</File>
+	<File name="src\jwsmtp\mailer.h" open="1" top="0" tabpos="12">
+		<Cursor position="2867" topLine="60" />
+	</File>
+	<File name="src\testApp.cpp" open="1" top="1" tabpos="6">
+		<Cursor position="458" topLine="3" />
+	</File>
+	<File name="src\testApp.h" open="1" top="0" tabpos="8">
+		<Cursor position="63" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
